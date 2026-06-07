@@ -35,8 +35,12 @@ Web & mobile app developer with a focus on building educational tools and cross-
 ### GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sphe-hlongwa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sphe-hlongwa&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=sphe-hlongwa&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sphe-hlongwa&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" />
+</div>
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/6C63FF/sphe-hlongwa" width="100%" />
 </div>
 
 ---
