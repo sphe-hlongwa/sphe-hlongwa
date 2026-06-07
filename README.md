@@ -28,7 +28,7 @@ Web & mobile app developer with a focus on building educational tools and cross-
 
 ### Featured Project
 
-**[TotalSkillz](https://github.com/sphe-hlongwa/Projects)** — A dual-platform Grade 12 Mathematics learning app (Flutter + PWA) with practice engine, timed exam simulator, formula vault, live class booking, and NSC past papers. Backed by Firebase.
+**[TotalSkillz](https://github.com/sphe-hlongwa/TotalSkillz)** — A dual-platform Grade 12 Mathematics learning app (Flutter + PWA) with practice engine, timed exam simulator, formula vault, live class booking, and NSC past papers. Backed by Firebase.
 
 ---
 
