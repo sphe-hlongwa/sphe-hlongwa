@@ -6,30 +6,16 @@ Web & mobile app developer with a focus on building educational tools and cross-
 
 ---
 
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![XML](https://img.shields.io/badge/XML-FF6600?style=flat&logo=xml&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-
-### Tools
-
-![Flutter](https://img.shields.io/badge/Flutter-54C5F8?style=flat&logo=flutter&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burpsuite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-
-### Platforms
-
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+<div align="center">
+  <h3>Languages</h3>
+  <img src="https://skillicons.dev/icons?i=python,cpp,cs,java,dart,js,php" alt="Languages" />
+  
+  <h3>Tools</h3>
+  <img src="https://skillicons.dev/icons?i=flutter,nodejs,git,postgres" alt="Tools" />
+  
+  <h3>Platforms</h3>
+  <img src="https://skillicons.dev/icons?i=android,linux,firebase,vscode,androidstudio" alt="Platforms" />
+</div>
 
 ---
 
@@ -47,6 +33,33 @@ Web & mobile app developer with a focus on building educational tools and cross-
 
 <div align="center">
   <img src="https://ghchart.rshah.org/6C63FF/sphe-hlongwa" width="100%" />
+</div>
+
+---
+
+## **Latest Endeavors**
+
+<div align="center">
+  <table align="center" width="100%">
+    <tr>
+      <td width="49%" align="center" style="border-right: 1px solid #555;">
+        <h3>Current Focus</h3>
+        <p>
+          <img src="https://img.shields.io/badge/Creating-Full%20Stack%20Portfolio-blueviolet?style=flat" alt="Current Project"/><br/><br/>
+          <img src="https://img.shields.io/badge/Learning-System%20Design-blue?style=flat" alt="Learning"/><br/><br/>
+          <img src="https://img.shields.io/badge/Exploring-Penetration%20Testing-green?style=flat" alt="Exploring"/>
+        </p>
+      </td>
+      <td width="49%" align="center">
+        <h3>Future Plans</h3>
+        <p>
+          <img src="https://img.shields.io/badge/Launch-Tech%20Blog-red?style=flat" alt="Tech Blog"/><br/><br/>
+          <img src="https://img.shields.io/badge/Build-AI%20Powered%20Projects-orange?style=flat" alt="AI Projects"/><br/><br/>
+          <img src="https://img.shields.io/badge/Master-Red%20Hat-teal?style=flat" alt="Red Hat"/>
+        </p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
