@@ -19,9 +19,9 @@ Web & mobile app developer with a focus on building educational tools and cross-
 
 ### Featured Projects
 
-**[TotalSkillz](https://github.com/sphe-hlongwa/TotalSkillz)** — A dual-platform Grade 12 Mathematics learning app (Flutter + PWA) with practice engine, timed exam simulator, formula vault, live class booking, and NSC past papers. Backed by Firebase.
+**[TotalSkillz](https://github.com/sphe-hlongwa/TotalSkillz)** - A dual-platform Grade 12 Mathematics learning app (Flutter + PWA) with practice engine, timed exam simulator, formula vault, live class booking, and NSC past papers. Backed by Firebase.
 
-**[Dream To Digital (D2D)](https://github.com/limuwani/D2D_group_project)** — An enterprise Android application for order tracking and fulfillment monitoring. Features real-time status updates, a staff queue management portal, and service rating metrics.
+**[Dream To Digital (D2D)](https://github.com/limuwani/D2D_group_project)** - An enterprise Android application for order tracking and fulfillment monitoring. Features real-time status updates, a staff queue management portal, and service rating metrics.
 
 ---
 
