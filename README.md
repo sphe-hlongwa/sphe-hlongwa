@@ -1,4 +1,4 @@
-# Sphephelo Hlongwa
+we# Sphephelo Hlongwa
 
 **Computer Science · University of the Witwatersrand · 2nd Year**
 
@@ -19,10 +19,10 @@ Web & mobile app developer with a focus on building educational tools and cross-
 
 ### Featured Projects
 
-**[TotalSkillz](https://github.com/sphe-hlongwa/TotalSkillz)** - A dual-platform Grade 12 Mathematics learning app (Flutter + PWA) with practice engine, timed exam simulator, formula vault, live class booking, and NSC past papers. Backed by Firebase.
-
-**[Dream To Digital (D2D)](https://github.com/limuwani/D2D_group_project)** - An enterprise Android application for order tracking and fulfillment monitoring. Features real-time status updates, a staff queue management portal, and service rating metrics.
-
+| Project | Description | Key Features | Stack |
+|---|---|---|---|
+| **[TotalSkillz](https://github.com/sphe-hlongwa/TotalSkillz)** | Dual-platform Grade 12 Mathematics learning app | Practice engine · Timed exam simulator · Formula vault · Live class booking · NSC past papers | Flutter · PWA · Firebase |
+| **[Dream To Digital (D2D)](https://github.com/limuwani/D2D_group_project)** | Enterprise Android app for order tracking & fulfillment monitoring | Real-time status updates · Staff queue management portal · Service rating metrics | Android |
 ---
 
 ### GitHub Stats
