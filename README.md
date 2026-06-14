@@ -1,4 +1,4 @@
-we# Sphephelo Hlongwa
+ **Sphephelo Hlongwa**
 
 **Computer Science · University of the Witwatersrand · 2nd Year**
 
