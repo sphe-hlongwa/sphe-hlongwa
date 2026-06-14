@@ -1,6 +1,6 @@
  **Sphephelo Hlongwa**
 
-**Computer Science · University of the Witwatersrand · 2nd Year**
+**Computer Science · University of the Witwatersrand**
 
 Web & mobile app developer with a focus on building educational tools and cross-platform experiences. Currently expanding my skillset into **Cybersecurity and Penetration Testing**.
 
